@@ -1,0 +1,42 @@
+export const products = [
+  {
+    id: 1,
+    name: "Vintage Wooden Chair",
+    description: "A handcrafted wooden chair perfect for modern interiors.",
+    type: "Furniture",
+    price: "$120",
+    image: "https://images.unsplash.com/photo-1567016544100-6f2f7d2f1b40?w=400",
+  },
+  {
+    id: 2,
+    name: "Mountain Bike",
+    description: "Durable bike suitable for all terrains and adventure rides.",
+    type: "Sports",
+    price: "$899",
+    image: "https://images.unsplash.com/photo-1518655048521-f130df041f66?w=400",
+  },
+  {
+    id: 3,
+    name: "Modern Table Lamp",
+    description: "Soft lighting with a sleek design to enhance your workspace.",
+    type: "Home Decor",
+    price: "$75",
+    image: "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=400",
+  },
+  {
+    id: 4,
+    name: "CNC Milling Machine",
+    description: "High-precision machine for industrial-grade production tasks.",
+    type: "Machinery",
+    price: "$12,500",
+    image: "https://images.unsplash.com/photo-1621905251918-9584bbaaa7e8?w=400",
+  },
+  {
+    id: 5,
+    name: "Designer Wall Clock",
+    description: "Elegant timepiece crafted with premium materials.",
+    type: "Decor",
+    price: "$60",
+    image: "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=400",
+  },
+];
